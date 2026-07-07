@@ -1,0 +1,22 @@
+.container_1 {
+  background: white;
+
+  width: 400px;
+
+  padding: 30px;
+
+  border-radius: 10px;
+
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+
+  text-align: center;
+}
+
+
+.task {
+  margin-top: 15px;
+  padding: 12px;
+  background: #eeeeee;
+  border-radius: 6px;
+  text-align: left;
+}
