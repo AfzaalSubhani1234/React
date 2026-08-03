@@ -3,6 +3,7 @@ import Dashboard from "../pages/Dashboard"
 import Home from "../pages/Home"
 import Login from "../pages/Login"
 import Register from "../pages/Register"
+import AddStudent from '../pages/AddStudent'
 
 function Router() {
     return (
@@ -12,6 +13,8 @@ function Router() {
                 <Route path="/login" element={<Login />} />
                 <Route path="/dashboard" element={<Dashboard />} />
                 <Route path="/register" element={<Register />} />
+                <Route path="/add_students" element={<AddStudent />} />
+
             </Routes>
         </>
     )
