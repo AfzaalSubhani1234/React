@@ -2,6 +2,7 @@
 
 A React project for practicing React concepts and building projects.
 
-## Live Demo
 
-View Live Weather App
+| Project | Live Demo |
+|---------|-----------|
+| Weather App |https://react-mastery-delta.vercel.app/ |
