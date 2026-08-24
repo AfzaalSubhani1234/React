@@ -4,4 +4,4 @@ A React project for practicing React concepts and building projects.
 
 ## Live Demo
 
-[Weather App] | (https://react-mastery-delta.vercel.app/)
+View Live Weather App
